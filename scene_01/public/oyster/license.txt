@@ -1,0 +1,11 @@
+Model Information:
+* title:	BBQ Oysters
+* source:	https://sketchfab.com/3d-models/bbq-oysters-49d0b3d6bd134acb8c4804b972151d29
+* author:	chefjennydorsey (https://sketchfab.com/chefjennydorsey)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BBQ Oysters" (https://sketchfab.com/3d-models/bbq-oysters-49d0b3d6bd134acb8c4804b972151d29) by chefjennydorsey (https://sketchfab.com/chefjennydorsey) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
